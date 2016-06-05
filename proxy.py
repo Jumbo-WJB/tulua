@@ -162,6 +162,7 @@ def add_cookies(host,cookieFile):
 		co=make_cookie(host,kv[0],kv[1])
 		cj.set_cookie(co)
 	opener = urllib2.build_opener(urllib2.HTTPCookieProcessor(cj))
+	fp.close()
 		
 def setup_tunnel():
 	#Initial Request to get the cookie
