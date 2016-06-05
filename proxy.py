@@ -216,7 +216,7 @@ def usage():
 	print "    -a:		address for remote webshell to connect to (default = 127.0.0.1)"
 	print "    -b:		HTTP request size (some webshels have limitations on the size)"	
 	print "    -s:		start the pinging thread first - some services send data first (SSH)"	
-	print "    -c       inject the cookies(key=value) from a text file"       
+	print "    -c           inject the cookies(key=value) from a text file"       
 	print "    -v:		Verbose (outputs packet size)"
 	print "    -h:		Help page"
 	print
