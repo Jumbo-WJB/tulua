@@ -245,7 +245,6 @@ def main():
 	try:
 		for o, a in opts:
 			if o in ("-h", "--help"):
-				print 'hhhhhhhhhhhhh'
 				usage()
 				sys.exit()
 			if o == "-u":
