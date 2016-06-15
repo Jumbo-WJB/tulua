@@ -1,5 +1,16 @@
+tunna可带cookie访问：http://zone.wooyun.org/content/27658
+自己新建一个文本 把登陆后的cookie内容贴进去保存 然后-c 指向文件的路径
+
+或reduh带cookies访问：https://www.t00ls.net/viewthread.php?tid=28524&from=favorites
+
+
+
 v0.1	Alpha version
 
+			
+			
+			
+			
 					  _____                        
 					 |_   _|   _ _ __  _ __   __ _ 
 					   | || | | | '_ \| '_ \ / _` |
